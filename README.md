@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amjad Alaghbari</h1>
 <h3 align="center">A passionate C.S student from Yemen</h3>
 
-- 🌱 I’m currently learning **React & Flutter**
+- 🌱 I’m currently learning **NEXT JS**
 
 - 📫 How to reach me **amjadffqs@gmail.com**
 
