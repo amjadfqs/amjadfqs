@@ -16,7 +16,7 @@
 
 <h1> Github: </h1>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=amjadfqs&theme=dracula&border_radius=5&mode=weekly)](https://git.io/streak-stats)
+<!--- [![GitHub Streak](https://streak-stats.demolab.com?user=amjadfqs&theme=dracula&border_radius=5&mode=weekly)](https://git.io/streak-stats) --->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amjadfqs&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
