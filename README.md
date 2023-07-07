@@ -18,6 +18,6 @@
 
 <!--- [![GitHub Streak](https://streak-stats.demolab.com?user=amjadfqs&theme=dracula&border_radius=5&mode=weekly)](https://git.io/streak-stats) --->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amjadfqs&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<!--- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amjadfqs&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) --->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amjadfqs&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
