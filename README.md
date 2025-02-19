@@ -3,7 +3,7 @@
 # Hi there, I'm Amjad Alaghbari 👋
 ### Full Stack Web Developer | React.js & Next.js Specialist
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/amjadfqs?style=social)](https://twitter.com/amjadfqs)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@amjadfqs-blue?style=social&logo=linkedin)](https://linkedin.com/in/amjadfqs)
 [![Instagram](https://img.shields.io/badge/Instagram-@amj3.3-pink)](https://instagram.com/amj3.3)
 
 </div>
@@ -79,11 +79,10 @@ I'm a passionate web developer focused on creating modern and scalable web appli
 
 </div>
 
-## 🤝 Let's Connect!
-
+🤝 Let's Connect!
 <p align="center">
-  <a href="https://twitter.com/amjadfqs" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  <a href="https://linkedin.com/in/amjadfqs" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://instagram.com/amj3.3" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
@@ -92,7 +91,6 @@ I'm a passionate web developer focused on creating modern and scalable web appli
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
-
 ---
 
 <p align="center">
