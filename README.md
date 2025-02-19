@@ -17,7 +17,7 @@ I'm a passionate web developer focused on creating modern and scalable web appli
 - 💬 Ask me about React.js, Next.js, and web development
 - 📫 Reach me at: **amjadffqs@gmail.com**
 
-## Technologies & Tools
+## Tach Stack
 
 #### Frontend Development
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
